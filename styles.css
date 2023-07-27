@@ -1,0 +1,14 @@
+body {
+  background: #8bbdd7;
+  font-family: "Halant", serif;
+}
+
+img {
+  max-height: 350px;
+  max-width: 375px;
+  border-radius: 8px;
+}
+
+.fiverr-link {
+  text-decoration: none;
+}
