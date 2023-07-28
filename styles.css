@@ -12,3 +12,7 @@ img {
 .fiverr-link {
   text-decoration: none;
 }
+
+.logo {
+  max-height: 25px;
+}
