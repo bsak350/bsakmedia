@@ -1,12 +1,14 @@
 body {
   background: #8bbdd7;
-  font-family: "Halant", serif;
+  font-family: "Poppins", sans-serif;
 }
 
-img {
-  max-height: 350px;
-  max-width: 375px;
-  border-radius: 8px;
+.img-fluid {
+  max-width: 100%;
+}
+
+p {
+  font-size: 18px;
 }
 
 .fiverr-link {
@@ -15,4 +17,24 @@ img {
 
 .logo {
   max-height: 25px;
+}
+
+.btn-dark {
+  font-size: 20px;
+}
+
+#brand-photo {
+  max-height: 250px;
+  max-width: 300px;
+  justify-content: center;
+}
+
+#web-photo {
+  display: block;
+  margin: auto;
+  max-width: 500px;
+}
+
+.card-img-top {
+  max-height: 500px;
 }
