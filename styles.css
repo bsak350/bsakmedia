@@ -1,5 +1,5 @@
 body {
-  background: #8bbdd7;
+  background: #77d5fc;
   font-family: "Poppins", sans-serif;
 }
 
@@ -63,7 +63,7 @@ footer.container {
   margin: 0 auto;
   max-width: 550px;
   width: 100%;
-  background: #8bbdd7;
+  background: #77d5fc;
 }
 
 .formbold-input-flex {
@@ -136,5 +136,13 @@ footer.container {
   .nav-item {
     margin-left: 20px;
     font-size: 14px;
+  }
+
+  .navbar-toggler {
+    margin-right: 15px;
+  }
+
+  .main-logo {
+    max-width: 175px;
   }
 }
