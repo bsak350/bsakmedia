@@ -1,6 +1,11 @@
 body {
   background: #77d5fc;
-  font-family: "Poppins", sans-serif;
+  font-family: "IBM Plex Serif", serif;
+}
+
+.nav-item {
+  font-size: 18px;
+  margin-left: 20px;
 }
 
 .img-fluid {
@@ -134,12 +139,12 @@ footer.container {
   }
 
   .nav-item {
-    margin-left: 20px;
+    margin-left: 55px;
     font-size: 14px;
   }
 
   .navbar-toggler {
-    margin-right: 15px;
+    margin-right: 25px;
   }
 
   .main-logo {
