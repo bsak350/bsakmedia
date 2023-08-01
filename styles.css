@@ -42,3 +42,36 @@ p {
 .footer-text {
   font-size: 15px;
 }
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 30px;
+    line-height: 2;
+  }
+
+  h5 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .main-logo {
+    max-width: 130px;
+    margin-left: 0px;
+  }
+
+  .footer-text {
+    font-size: 13px;
+  }
+
+  #web-photo {
+    max-width: 350px;
+  }
+
+  .nav-item {
+    margin-left: 20px;
+    font-size: 14px;
+  }
+}
