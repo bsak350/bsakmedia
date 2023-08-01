@@ -38,3 +38,7 @@ p {
 .card-img-top {
   max-height: 500px;
 }
+
+.footer-text {
+  font-size: 15px;
+}
