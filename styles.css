@@ -45,6 +45,11 @@ p {
   max-width: 650px;
 }
 
+#website-dev-btn {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
 .card-img-top {
   max-height: 500px;
 }
