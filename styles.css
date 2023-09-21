@@ -35,7 +35,7 @@ p {
 
 #brand-photo {
   max-height: 250px;
-  max-width: 300px;
+  max-width: 250px;
   justify-content: center;
 }
 
@@ -127,12 +127,20 @@ footer.container {
     line-height: 2;
   }
 
+  h3 {
+    font-size: 22px;
+  }
+
   h5 {
     font-size: 18px;
   }
 
   p {
     font-size: 15px;
+  }
+
+  #index-photo {
+    width: 350px;
   }
 
   .footer-text {
