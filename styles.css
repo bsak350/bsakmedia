@@ -34,8 +34,8 @@ p {
 }
 
 #brand-photo {
-  max-height: 250px;
   max-width: 250px;
+  max-height: 250px;
   justify-content: center;
 }
 
