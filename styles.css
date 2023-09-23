@@ -34,9 +34,8 @@ p {
 }
 
 #brand-photo {
-  max-width: 250px;
-  max-height: 250px;
   justify-content: center;
+  max-width: 250px;
 }
 
 #web-photo {
@@ -141,6 +140,10 @@ footer.container {
 
   #index-photo {
     width: 350px;
+  }
+
+  #brand-photo {
+    width: 225px;
   }
 
   .footer-text {
