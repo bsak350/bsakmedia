@@ -4,7 +4,7 @@ body {
 }
 
 .nav-item {
-  font-size: 18px;
+  font-size: 20px;
   margin-left: 20px;
 }
 
@@ -35,7 +35,7 @@ p {
 
 #brand-photo {
   justify-content: center;
-  max-width: 250px;
+  max-height: 150px;
 }
 
 #web-photo {
@@ -47,6 +47,7 @@ p {
 #website-dev-btn {
   margin-right: 15px;
   margin-left: 15px;
+  width: 215px;
 }
 
 .card-img-top {
@@ -136,7 +137,7 @@ footer.container {
   }
 
   h3 {
-    font-size: 22px;
+    font-size: 20px;
   }
 
   h5 {
@@ -148,11 +149,12 @@ footer.container {
   }
 
   #index-photo {
-    width: 350px;
+    width: 325px;
   }
 
   #brand-photo {
-    width: 225px;
+    max-width: 330px;
+    margin: 1px;
   }
 
   .footer-text {
@@ -165,11 +167,12 @@ footer.container {
 
   #website-dev-btn {
     margin-bottom: 15px;
+    width: 200px;
   }
 
   .nav-item {
-    margin-left: 55px;
-    font-size: 16px;
+    margin-left: 50px;
+    font-size: 18px;
   }
 
   .navbar-toggler {
@@ -178,5 +181,9 @@ footer.container {
 
   .main-logo {
     max-width: 175px;
+  }
+
+  .btn-dark {
+    font-size: 18px;
   }
 }
