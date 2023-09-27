@@ -26,7 +26,10 @@ p {
 
 #brand-photo {
   justify-content: center;
-  max-height: 150px;
+  height: 150px;
+  width: 170px;
+  margin-right: 2px;
+  margin-top: 6px;
 }
 
 #web-photo {
@@ -141,11 +144,6 @@ footer.container {
 
   #index-photo {
     width: 325px;
-  }
-
-  #brand-photo {
-    max-width: 330px;
-    margin: 1px;
   }
 
   .footer-text {
