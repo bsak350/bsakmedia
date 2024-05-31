@@ -39,9 +39,8 @@ p {
 }
 
 #website-dev-btn {
-  margin-right: 15px;
-  margin-left: 15px;
-  width: 215px;
+  width: 20%;
+  margin-top: 15px;
 }
 
 .footer-text {
