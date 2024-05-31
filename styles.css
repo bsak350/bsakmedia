@@ -44,20 +44,17 @@ p {
   width: 215px;
 }
 
-#card-amazon {
-  margin-left: 30px;
-}
-
-#card-walmart {
-  margin-right: 30px;
-}
-
 .footer-text {
   font-size: 15px;
 }
 
 footer.container {
   margin-top: 100px;
+}
+
+.card {
+  margin: auto;
+  width: 50%;
 }
 
 .formbold-main-wrapper {
@@ -180,12 +177,7 @@ footer.container {
     font-size: 18px;
   }
 
-  #card-amazon {
-    margin-right: 30px;
-  }
-
-  #card-walmart {
-    margin-left: 30px;
-    margin-top: 10px;
+  .card {
+    width: 90%;
   }
 }
