@@ -179,4 +179,13 @@ footer.container {
   .btn-dark {
     font-size: 18px;
   }
+
+  #card-amazon {
+    margin-right: 30px;
+  }
+
+  #card-walmart {
+    margin-left: 30px;
+    margin-top: 10px;
+  }
 }
